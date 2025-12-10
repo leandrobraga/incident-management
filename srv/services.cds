@@ -11,3 +11,5 @@ service MyService {
   entity Incidents as projection on my.Incidents;
   entity Customers as projection on my.Customers;
 }
+
+annotate ProcessorService.Incidents with @odata.draft.enabled;

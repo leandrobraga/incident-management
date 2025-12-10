@@ -1,4 +1,4 @@
-code,criticality,name,descr
+code,descr,criticality
 N,New,3
 A,Assigned,2
 I,In Process,2
